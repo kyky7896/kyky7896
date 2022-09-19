@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=KY%20Lee&fontSize=90)<br>
 
 ## 이경영 Kyung-young, Lee
-- 배움을 갈구하는 백엔드 개발자 입니다
-- 
+- 배움을 갈구하는 백엔드 개발자 입니다 💻
 
 
 ## 사용 가능한 기술스택
